@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/introImageView"
+        android:layout_width="match_parent"
+        android:layout_height="220dp"
+        tools:srcCompat="@tools:sample/avatars"
+        android:layout_margin="20dp"/>
+
+    <TextView
+        android:id="@+id/introHeading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:gravity="center"
+        android:text="Abhinav" />
+
+    <TextView
+        android:id="@+id/introBody"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="16dp"
+        android:padding="10dp"
+        android:text="Hey i am abhinav goyal ,I Study in IIT Hyderabad.Hey i also develop app and this is my third Business app"
+        android:textAlignment="center"/>
+</LinearLayout>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Celebrations1.0</string>
+    <string name="home">Home</string>
+    <string name="gift">Gift</string>
+    <string name="three">Three</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

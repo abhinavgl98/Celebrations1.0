@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "460151234667",
+    "firebase_url": "https://celebrare-b43da.firebaseio.com",
+    "project_id": "celebrare-b43da",
+    "storage_bucket": "celebrare-b43da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460151234667:android:b015e5d5f08accd3d0112e",
+        "android_client_info": {
+          "package_name": "com.enjoy.celebrations"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460151234667-d8nmqkdp2sc8tskd8h2gast0pr6hipct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDxKDwu7q_PV7n1JWghRt_dOPxB8TRcds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460151234667-d8nmqkdp2sc8tskd8h2gast0pr6hipct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
